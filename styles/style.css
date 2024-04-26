@@ -1,0 +1,40 @@
+body{
+    font-size: 1.5em;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+    color: rgb(15, 15, 15);
+    background-color: rgb(143, 255, 91);
+    border-color: rgb(191, 191, 191);
+    border-radius: 5px;
+    height: 3rem;
+    width: 10rem;
+}
+
+#out{
+    text-align: center;
+}
+
+#btdiv{
+    margin-top: 3rem;
+    text-align: center;
+}
+
+#set{
+    color: rgb(15, 15, 15);
+    background-color: rgb(161, 161, 161);
+    border-color: rgb(123, 105, 255);
+    border-radius: 15px;
+    height: 2rem;
+    width: 8rem;
+}
+
+p{
+    color: rgb(228, 228, 228);
+}
